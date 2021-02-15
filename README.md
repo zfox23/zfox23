@@ -18,11 +18,12 @@ I'm a tech lead at [High Fidelity](https://highfidelity.com), and I work with a 
 ## Other Software Projects
 - 🤖 [zachDiscordBot](https://github.com/zfox23/zachDiscordBot), a Discord bot with a powerful quoting system and music jukebox functionality.
 - 📷 [colorSortedImageGrid](https://github.com/zfox23/colorSortedImageGrid), which outputs a color-sorted image from an input folder of images.
-- 💖 [bluetooth-heartrate-over-http](bluetooth-heartrate-over-http), which lets users send heartrate data from a Bluetooth heartrate monitor between two devices using HTTP
+- 💖 [bluetooth-heartrate-over-http](https://github.com/zfox23/bluetooth-heartrate-over-http), which lets users send heartrate data from a Bluetooth heartrate monitor between two devices using HTTP
 - 🚗 [LogitechPedalsToRudder](https://github.com/zfox23/LogitechPedalsToRudder), an Ardunio sketch which allows your standalone Logitech G27 pedals to act as a rudder control via USB.
 - 💡 [PlexHue](https://github.com/zfox23/PlexHue), which allows users to automatically modify the state of your Philips Hue lights upon certain Plex playback events.
 - 👨‍💻 [githubInfoGrabber](https://github.com/zfox23/githubInfoGrabber), a small utility which provides users with a simple way to download various pieces of information about a GitHub repository.
 - 🤖 [generateTTSConversation](https://github.com/zfox23/generateTTSConversation), which allows users to generate a text-to-speech conversation between multiple people from an input text file.
+- 📸 [My photography website, zachfox.photography](https://zachfox.photography), written in plain HTML/CSS/JS (no libraries)
 
 ...and more!
 
@@ -30,3 +31,4 @@ I'm a tech lead at [High Fidelity](https://highfidelity.com), and I work with a 
 - [Website](https://afriendlyfox.com)
 - [Photography Website](https://zachfox.photography)
 - [Twitter](https://twitter.com/valefox)
+- [Instagram](https://instagram.com/zachfoxphotography/)
