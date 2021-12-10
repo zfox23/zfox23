@@ -4,11 +4,11 @@
 Thanks for stopping by! I'm Zach Fox (he/him), and I'm a software engineer and [photographer](https://zachfox.photography) living in the Washington DC area.
 
 ## Main Software Project
-I'm a tech lead at [High Fidelity](https://highfidelity.com), and I work with a small team of lovely, talented folks. We enable developers to implement high-quality spatial audio into their applications and games.
+Professionally, I was most recently a tech lead at [High Fidelity](https://highfidelity.com), where I worked with a small team of lovely, talented folks. We enabled developers to implement high-quality spatial audio into their applications and games.
 
-👂 Want to hear what that sounds like? [Click here for a demo of our technology.](https://map.highfidelity.com/x28jmHHCob/?mapJSON=https%3A%2F%2Fbackgrounds.highfidelity.com%2Fzaru6.json&x=21.72&y=33.68&o=1.41)
+👂 Want to hear what that sounds like? [Click here for a demo of the technology I helped build.](https://map.highfidelity.com/x28jmHHCob/?mapJSON=https%3A%2F%2Fbackgrounds.highfidelity.com%2Fzaru6.json&x=21.72&y=33.68&o=1.41)
 
-**At HiFi, I'm responsible for:**
+**At HiFi, I was responsible for:**
 - The architecure and implementation of the [Spatial Audio API](https://github.com/highfidelity/hifi-spatial-audio-js) (TypeScript)
 - Writing and deploying [the documentation for the Spatial Audio API](https://docs.highfidelity.com) (TSDoc, TypeDoc)
 - Overseeing the development of and contributing to [our Spatial Audio API Example projects repository](https://github.com/highfidelity/Spatial-Audio-API-Examples/) (NodeJS, JavaScript)
