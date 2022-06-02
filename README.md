@@ -28,6 +28,7 @@ My most recent full-time position was Lead Applications Developer at [High Fidel
 - 💡 [PlexHue](https://github.com/zfox23/PlexHue), which allows users to automatically modify the state of your Philips Hue lights upon certain Plex playback events.
 - 👨‍💻 [githubInfoGrabber](https://github.com/zfox23/githubInfoGrabber), a small utility which provides users with a simple way to download various pieces of information about a GitHub repository.
 - 🤖 [generateTTSConversation](https://github.com/zfox23/generateTTSConversation), which allows users to generate a text-to-speech conversation between multiple people from an input text file.
+- 😊 [year-in-pixels-to-daylio](https://github.com/zfox23/year-in-pixels-to-daylio), which converts data exported from [the "Pixels - Mood & Mental Health" Android/iOS app](https://teovogel.me/pixels/) to a format compatible with [the Daylio Android/iOS app](https://daylio.net/) - and the other way around.
 
 ...and more!
 
