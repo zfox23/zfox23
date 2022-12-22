@@ -1,17 +1,20 @@
 ![Header Image](./header.jpg)
 
 ### Hello! 😊
-Thanks for stopping by! I'm Zach Fox (he/him), and I'm a software engineer and [photographer](https://zachfox.photography) living in Brooklyn, New York.
+Thanks for stopping by! I'm Zach Fox 🏳️‍🌈 (he/him), and I'm a Web developer and [photographer](https://zachfox.photography) currently living in Brooklyn, New York.
 
-**TL;DR: [Here's my resume.](https://afriendlyfox.com/ZacharyFoxResume.pdf)**
+## Croquet
+In late November 2022, I joined [Croquet](https://croquet.io) as a Developer Relations Engineer. I'm super excited about Metaverse technologies and about helping others express themselves more authentically using the Metaverse as a medium.
 
-## Main Software Project
-My main software-related project is [my photography website, Zach Fox Photography](https://zachfox.photography), and its sibling site, [Zach Fox Fine Art Photography](https://art.zachfox.photography). Those two sites are written using Gatsby, React, TailwindCSS, and Express.
+The best way to chat with me about the Metaverse is via Croquet's Discord server, which [you can join by clicking here](https://croquet.io/discord).
+
+## Personal Software Project
+My main software-related passion project is [my photography website, Zach Fox Photography](https://zachfox.photography). I wrote ZFP using Gatsby, React, TailwindCSS, and Express.
 
 I've learned immensely from starting my own business, and my websites have gone through several design and implementation iterations over time. Those iterations have been fueled by a desire to learn the latest Web development technology, a desire for a great user experience, and a desire to make my site better than anything I could create with a photography site builder like Smugmug.
 
 ## High Fidelity
-My most recent full-time position was Lead Applications Developer at [High Fidelity](https://highfidelity.com), where I worked with a small team of lovely, talented folks. We enabled developers to implement high-quality spatial audio into their applications and games.
+Before Croquet, I was a Lead Applications Developer at [High Fidelity](https://highfidelity.com), where I worked with a small team of lovely, talented folks. We enabled developers to implement high-quality spatial audio into their applications and games.
 
 **At HiFi, I was most recently responsible for:**
 - The architecure and implementation of the [Spatial Audio API](https://github.com/highfidelity/hifi-spatial-audio-js) (TypeScript, Swift)
@@ -35,7 +38,5 @@ My most recent full-time position was Lead Applications Developer at [High Fidel
 ## Links
 - [Website](https://afriendlyfox.com)
 - [Zach Fox Photography Website](https://zachfox.photography)
-- [Zach Fox Fine Art Photography Website](https://art.zachfox.photography)
-- [Twitter](https://twitter.com/valefox)
 - [Instagram](https://instagram.com/zachfoxphotography/)
 - [Resume](https://afriendlyfox.com/ZacharyFoxResume.pdf)
