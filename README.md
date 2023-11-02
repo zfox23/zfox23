@@ -11,7 +11,7 @@ My main software-related passion project is [my photography website, Zach Fox Ph
 I've learned immensely from starting my own business, and my websites have gone through several design and implementation iterations over time. Those iterations have been fueled by a desire to learn the latest Web development technology, a desire for a great user experience, and a desire to make my site better than anything I could create with a photography site builder like Smugmug.
 
 ## Mozilla
-In July 2023, I joined the [Mozilla Hubs](https://hubs.mozilla.com) team as a contract Senior Software Engineer, where I'm focusing mainly on the WebRTC components of their virtual world platform. 
+In July 2023, I joined the [Mozilla Hubs](https://hubs.mozilla.com) team as a contract Senior Software Engineer, where I focused mainly on the WebRTC components of their virtual world platform. In October 2023, I became a member of [the MDN Content Team](https://developer.mozilla.org/en-US/), doing...all sorts of stuff. It's a whirlwind!
 
 ## Croquet
 In late November 2022, I joined [Croquet](https://croquet.io) as an Engineering Product Manager and Developer Relations Engineer. I'm super excited about Metaverse technologies and about helping others express themselves more authentically using the Metaverse as a medium.
